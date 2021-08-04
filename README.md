@@ -1,13 +1,10 @@
 ### Hi there, I'm Kevin Ribeiro, but you can call me Littles <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-This is the place where I opensource stuff and break things 🤣
-
-- 🔭 I’m currently working on something really cool 😉
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on more open source projects.
-- 💬 Ask me anything [here](https://github.com/vibhorchaudhary/vibhorchaudhary/issues) related to <b>Android application Development, Android Custom Operating System Development, Kotlin, Java, iOS Development, Swift, Javascript, Google App Script & Spring Boot, Security, Data JPA.</b>
-- 📫 How to reach me: [@vibhorchaudhary][linkedin] or say 👋 on Email at [Vibhor Chaudhary](mailto:vibhorchaudhary@yahoo.com)
-- ⚡ Fun fact: I ❤️ 🐶s & ❤️ 🏍️
+- 🔭 I’m currently working on my own Startup.
+- 🌱 I’m currently learning more and more about swift, a lot of Flutter and a bit of everything that my day requires.
+- 💻 My core language is swift and i'm studying day by day to turn into a greater apple ecosystem developer!
+- 📫 How to reach me: [@kevin-ribeiro][linkedin] or say 👋 on Email at [Vibhor Chaudhary](mailto:pro.kevinribeiro@gmail.com)
+- ⚡ Fun fact: I ❤️ animes, videogames and social contact!
 
 ### Connect with me:
 
