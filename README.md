@@ -5,7 +5,7 @@
 - 💻 My core language is swift and i'm studying day by day to turn into a greater apple ecosystem developer!
 - 📫 How to reach me: [LinkedIn][linkedin] or say 👋 on [Email](mailto:pro.kevinribeiro@gmail.com)
 - ⚡ Fun fact: I ❤️ animes, videogames and social contact!
-- 🔥 You can view my portfolio here: https://github.com/KevinLittles/Portfolio/blob/2f44fac34288134f9f6144e7e901098e1833eb7d/README.md
+- 🔥 You can view my portfolio here: https://github.com/KevinLittles/Portfolio/blob/main/README.md
 
 ### Connect with me:
 
